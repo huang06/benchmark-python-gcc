@@ -1,0 +1,2 @@
+pyperformance==1.0.5
+pyperf==2.4.0
